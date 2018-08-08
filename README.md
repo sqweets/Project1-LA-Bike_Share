@@ -26,11 +26,11 @@ Comments on Data Sources and Shortcomings:
 
 Having difficulties finding demographic stats over time from Blizzard API, and do not appear to get actual player data, but can get character, faction, and guild statistics by region/server. Use stock market history and create dataframe to analyze numbers by expansion release dates.
 
-New / 3 strong research questions: 
+Revised / 3 strong research questions: 
 
 1. Does a player's region affect their character faction selection? (i.e. Is the distribution of factions 50/50 by regions?) Null Hypothesis: Region does not affect choice in character faction.
 
-2. Is there a faction that is more dedicated to playing? Measure this through level of progression through the game. Null Hypothesis: Players are likely to progress through the game regardless of faction.
+2. Is there a faction that is more dedicated to playing? Measure this through level of progression through the game and/or PVP rank. Null Hypothesis: Players are likely to progress through the game regardless of faction or PVP rank.
 
 3. Is there a correlation between stock values of Blizzard and Expansion version releases for WOW? 
    Null Hypothesis: There is no correlation between Blizzard Stock value and expansion version release dates.
