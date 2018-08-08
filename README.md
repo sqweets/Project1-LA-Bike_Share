@@ -18,3 +18,17 @@ Data: Blizzard API (https://dev.battle.net)for statistics: profile and game data
 Techniques and Tools: slack channel and git repository established
 
 Data Shortcomings: not available yet
+
+Update 8/7/2018
+
+Where to get Data: get stock values over time from stock exchange trackers? Create dataframe for release date info from Ellen's research
+
+Having difficulties finding demographic stats over time from Blizzard API, need to rexamine where data comes from.
+
+New research questions:
+  1. Is there a correlation between stock values of Blizzard and Expansion version releases for WOW? 
+    Null Hypothesis: There is no correlation between Blizzard Stock value and expansion version release dates  
+  2. Is there a correlation between YouTube video views for Blizzard channel (shows popularity?) and version releases?
+
+NEW Description of project is to find indicators of popularity since tracking demographic data over time is proving problematic, as in blizzard api does not appear to give data other than CURRENT user demographic data
+  
