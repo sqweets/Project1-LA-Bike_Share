@@ -7,7 +7,8 @@ Project Title: Mining Warcraft
 Description:  Finding trends in Warcraft for popularity over time, by demographics, and YouTube presence, and examine the in-game economy
 
 Data: Blizzard API (https://dev.battle.net)for statistics: profile and game data available; RealmPop for geographic/regional breakdowns
-(appears to be data from battle.net, too)
+(appears to be data from battle.net, too). 
+
 
 3-5 initial research questions:
 1.	First, what are the basic user stats…can we track all user data by gender and age over time?
@@ -19,16 +20,22 @@ Techniques and Tools: slack channel and git repository established
 
 Data Shortcomings: not available yet
 
-Update 8/7/2018
+=============Update 8/7/2018==============
 
-Where to get Data: get stock values over time from stock exchange trackers? Create dataframe for release date info from Ellen's research
+Comments on Data Sources and Shortcomings:
 
-Having difficulties finding demographic stats over time from Blizzard API, need to rexamine where data comes from.
+Having difficulties finding demographic stats over time from Blizzard API, and do not appear to get actual player data, but can get character, faction, and guild statistics by region/server. Use stock market history and create dataframe to analyze numbers by expansion release dates.
 
-New research questions:
-  1. Is there a correlation between stock values of Blizzard and Expansion version releases for WOW? 
-    Null Hypothesis: There is no correlation between Blizzard Stock value and expansion version release dates  
-  2. Is there a correlation between YouTube video views for Blizzard channel (shows popularity?) and version releases?
+New / 3 strong research questions: 
 
-NEW Description of project is to find indicators of popularity since tracking demographic data over time is proving problematic, as in blizzard api does not appear to give data other than CURRENT user demographic data
+1. Does a player's region affect their character faction selection? (i.e. Is the distribution of factions 50/50 by regions?) Null Hypothesis: Region does not affect choice in character faction.
+
+2. Is there a faction that is more dedicated to playing? Measure this through level of progression through the game. Null Hypothesis: Players are likely to progress through the game regardless of faction.
+
+3. Is there a correlation between stock values of Blizzard and Expansion version releases for WOW? 
+   Null Hypothesis: There is no correlation between Blizzard Stock value and expansion version release dates.
+
+
+
+
   
