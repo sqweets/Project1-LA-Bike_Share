@@ -42,10 +42,14 @@ Decided to change project direction to bikesharing after being unable to get ava
 Project Title: Bike Sharing Trends in Los Angeles
 Data Sources: https://catalog.data.gov/dataset/metro-bike-share-trip-data
               https://miningwarcraft.slack.com/files/UC2NAQDEF/FC65TN2CA/la_weather_2016_2018.csv
-1. Track daily total usage over time to get started.
-2. When is the most popular time of day for shared bike usage? 
+1. Track daily total usage over time in LA to get started.
+2. When is the most popular time of day for shared bike usage? Most popular day of the week?
 3. Does temperature, precipitaiton, or air quality have an impact on number of daily rides?
 4. Does the type of fare paid affect when bikes are being used?
+Bonus
+5. Run general comparisons for LA vs NY or DC data dependent overall usage
+
+Data issues: having trouble accessing air pollution data, but did get more comprehensive data from metro api to cover more years.
 
 
 
