@@ -51,6 +51,15 @@ Bonus
 
 Data issues: having trouble accessing air pollution data, but did get more comprehensive data from metro api to cover more years.
 
+=============================Update 8/21/18==============================================================
+
+List of Notebooks:
+Project_One_DataCleaningAndFormatting - The code used to reformat the start time and split out the quarters from the original data
+Project_One_RidesPerDayAndMonth - All plots by day or by month
+Project_One_DaysOfWeek - All plots by days of the week
+Project_One_TimeOfDay - All plots from binning the time of day
+Project_One_comparetoNY - This needed its own date fixing, another different format.  Just the one plot.
+
 
 
   
